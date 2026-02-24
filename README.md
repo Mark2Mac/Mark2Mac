@@ -1,25 +1,18 @@
-# Hi 👋, I'm Marco
-
-### Data Science Student at @Politecnico di Torino - Transforming data into actionable insights 🚀
-
 <div align="center">
-<img src="https://i.pinimg.com/originals/0b/4d/91/0b4d9171fdd078a6ffafad7202b33c06.gif" width="100%" alt="Data Science & ML Animated Banner" />
+  <img src="https://i.pinimg.com/originals/0b/4d/91/0b4d9171fdd078a6ffafad7202b33c06.gif" width="100%" alt="Data Science & ML Animated Banner" />
+  
+  <br><br>
+
+  <h1>Hi 👋, I'm Marco</h1>
+  <h3>Data Science Student at @Politecnico di Torino | Transforming data into actionable insights 🚀</h3>
+
+  <p>
+    🔭 I'm working on <b>predictive modeling & advanced ML algorithms</b> <br>
+    🌱 I'm currently learning <b>Deep Learning, MLOps, & scalable data architectures</b> <br>
+    👯 I'm looking to collaborate on <b>open-source AI projects</b> <br>
+    💬 Ask me about <b>Python, Data Visualization, & Machine Learning</b>
+  </p>
 </div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mark2Mac" alt="Mark2Mac" /></a> </p>
-
-- 🔭 I'm currently working on **rredictive modeling and advanced machine learning algorithms.**
-
-- 🌱 I'm currently learning **Deep Learning, MLOps, and scalable data architectures**
-
-- 👯 I'm looking to collaborate on **open-source AI projects or data-driven challenges**
-
-- 💬 Ask me about **Python, Data Visualization, and Machine Learning**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marco-m-31b2bb191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco-m-31b2bb191" height="30" width="40" /></a>
-</p>
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
