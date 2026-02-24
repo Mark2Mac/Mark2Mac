@@ -3,7 +3,7 @@
 ### Data Science Student at @Politecnico di Torino - Transforming data into actionable insights 🚀
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000000,050505,111111&height=120&section=header&text=Data%20Science%20&%20ML&fontSize=42&animation=twinkling&fontColor=4ED1C5&desc=Transforming%20data%20into%20actionable%20insights%20%E2%9A%A1&descSize=16&descAlignY=75&descAlign=60" alt="Data Science Banner" />
+<img src="https://i.pinimg.com/originals/0b/4d/91/0b4d9171fdd078a6ffafad7202b33c06.gif" width="100%" alt="Data Science & ML Animated Banner" />
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mark2Mac" alt="Mark2Mac" /></a> </p>
