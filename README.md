@@ -14,7 +14,7 @@
 - **Numerical Linear Algebra** — PageRank & Spectral Clustering from scratch (Lanczos iteration, Wilkinson-shifted QR, Lloyd's k-means)
 - **Reinforcement Learning** course project · **Semantic Segmentation** presentation
 - **Open-source tooling** — [`apex-auditor`](https://github.com/Mark2Mac/apex-auditor) · [`multiclass-news-classifier`](https://github.com/Mark2Mac/multiclass-news-classifier) · [`site-inspector`](https://github.com/Mark2Mac/site-inspector)
-- Top-10 finalist team — **NTT DATA × BEST Hackathon 2026** (*AI Adoption Strategy for Personalized Prosthetics*)
+- Winning team — **NTT DATA × BEST Hackathon 2026** (*AI Adoption Strategy for Personalized Prosthetics*)
 
 ### Stack
 
@@ -45,7 +45,7 @@
 
 - BSc Electronic & Computer Engineering — Università degli Studi di Trieste, 2025
 - BSc Thesis — *Mining Node.js Vulnerabilities via Object Dependency Graph and Query*
-- AWS Cloud Computing certified (PoliTo, 2025) · MATLAB Associate (MathWorks, 2024)
+- AWS cloud computing course (PoliTo, 2025) · 9 MathWorks MATLAB/Simulink courses (2024)
 - English B2 — IELTS Academic & Trinity ISE II (2024)
 
 ### Looking for
